@@ -1,3 +1,4 @@
+
 ## 🚀 About Me
 
 计算机211研究生 | INTP | 探索有意思的事物
@@ -9,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C/C++, JavaScript, SQL
+**Languages:** Python, Go, Java, C/C++, JavaScript, SQL
 
 **Backend:** Spring Boot, Django, Node.js
 
