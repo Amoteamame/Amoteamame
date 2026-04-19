@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🚀 About Me
 
 计算机211研究生 | INTP | 探索有意思的事物
@@ -32,9 +30,7 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Amoteamame)
 
 ## 🌐 Connect With Me
-
-- 💼 LinkedIn: [Amoteamame](https://linkedin.com/in/Amoteamame)
-- 📧 Email: amoteamame@example.com
+- 📧 Email: htfly@foxmail.com
 
 ---
 
